@@ -1,4 +1,4 @@
-package com.ticket_dashboard.portal_api.security;
+package com.ticket_dashboard.portal_api.security.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
